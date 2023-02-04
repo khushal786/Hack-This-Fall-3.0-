@@ -14,14 +14,14 @@ This project falls under the category of Machine Learning. This project requires
 -   [NumPy](http://www.numpy.org/)
 -   [Pandas](http://pandas.pydata.org/)
 -   [matplotlib](http://matplotlib.org/)
--   [Scikit-learn](http://scikit-learn.org/stable/)
+-   [Scikit-learn](http://scikit-learn.org/)
 -   [Seaborn](https://seaborn.pydata.org/)
 -   [Streamlit](https://streamlit.io/)
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 Also you will be required to install [Power Bi](https://powerbi.microsoft.com/) in order to able to visualize various results given below.
 
 ## Code 
-The code for the machine learning model used is in [HTF House Price Prediction.ipynb](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/HTF%20House%20Price%20Prediction.ipynb "HTF House Price Prediction.ipynb") jupyter notebook file. You will also be required to include the [TransformedHousePrice.csv](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/TransformedHousePrice.csv "TransformedHousePrice.csv") dataset file to feed it to the machine learning module. While some code has already been implemented to get you started, you will need to execute all the code blocks i to successfully complete the project.The dataset contains 21609 rows and 31 columns. Note that the code included in [HTF.pbix](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/HTF.pbix "HTF.pbix") is a Power BI file meant to be used out-of-the-box visualization experience intended to give users a rich experience. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Power BI file.
+The code for the machine learning model used is in [HTF House Price Prediction.ipynb](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/HTF%20House%20Price%20Prediction.ipynb "HTF House Price Prediction.ipynb") jupyter notebook file. You will also be required to include the [TransformedHousePrice.csv](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/TransformedHousePrice.csv "TransformedHousePrice.csv") dataset file to feed it to the machine learning module. While some code has already been implemented to get you started, you will need to execute all the code blocks i to successfully complete the project.The dataset contains 21609 rows and 31 columns. Raw house price contains the unclean data (i.e the dirty data) Note that the code included in [HTF.pbix](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/HTF.pbix "HTF.pbix") is a Power BI file meant to be used out-of-the-box visualization experience intended to give users a rich experience. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Power BI file.
 
 ## Project Modules
 
