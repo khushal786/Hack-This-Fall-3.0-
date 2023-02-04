@@ -19,3 +19,25 @@ This project falls under the category of Machine Learning. This project requires
 -   [Streamlit](https://streamlit.io/)
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 Also you will be required to install [Power Bi](https://powerbi.microsoft.com/) in order to able to visualize various results given below.
+
+## Code 
+The code for the machine learning model used is in [HTF House Price Prediction.ipynb](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/HTF%20House%20Price%20Prediction.ipynb "HTF House Price Prediction.ipynb") jupyter notebook file. You will also be required to include the [TransformedHousePrice.csv](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/TransformedHousePrice.csv "TransformedHousePrice.csv") dataset file to feed it to the machine learning module. While some code has already been implemented to get you started, you will need to execute all the code blocks i to successfully complete the project. Note that the code included in [HTF.pbix](https://github.com/khushal786/Hack-This-Fall-3.0-/blob/main/HTF.pbix "HTF.pbix") is a Power BI file meant to be used out-of-the-box visualization experience intended to give users a rich experience. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Power Bi file.
+
+## Project Modules
+
+### Exploratory Data Analysis
+The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
+
+### Data Preprocessing
+A real-world data generally contains noises, missing values, and maybe in an unusable format which cannot be directly used for machine learning models. Data preprocessing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model. Here, the data was cleaned and refined.
+
+### Data Analysis
+Data analysis is the process of cleaning, changing, and processing raw data and extracting actionable, relevant information that helps businesses make informed decisions. The procedure helps reduce the risks inherent in decision-making by providing useful insights and statistics, often presented in charts, images, tables, and graphs.
+
+### Data Visualization
+Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand. Here, we have used Power BI for visualization.
+
+## Team Members
+Ashish Yadav, Kevin Modi, Khushal Ghathalia.
+
+
