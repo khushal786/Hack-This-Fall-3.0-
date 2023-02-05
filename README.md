@@ -1,7 +1,7 @@
 # Hack This Fall 3.0
 # Project:- House Price Prediction System
 
-The Official Submission of team **Sinister Bytes** for [Hack This fall 3.0](https://hackthisfall.tech/). The Problem statement for the project is based on Data Science.  The project modules include Exploratory Data Analysis, Data Preprocessing, Data Analysis and Data Visualization.
+The Official Submission of team **Sinister Bytes** (HTF-059) for [Hack This fall 3.0](https://hackthisfall.tech/). The Problem statement for the project is based on Data Science.  The project modules include Exploratory Data Analysis, Data Preprocessing, Data Analysis and Data Visualization.
 
 ## Problem Statement
 
